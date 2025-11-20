@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "142492439646",
+    "project_id": "easacc-f7a58",
+    "storage_bucket": "easacc-f7a58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142492439646:android:f6f175d25489735268d0cf",
+        "android_client_info": {
+          "package_name": "com.example.easacc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142492439646-m6fgrv73ohp13ukqk12dbukik8iiag82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wKz_SvL8erlCrlNj4vnxfbz1cagMf8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142492439646-m6fgrv73ohp13ukqk12dbukik8iiag82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142492439646-93gqta5fffmuvggnl0dcsbirch8cnd6u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easacc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142492439646:android:da3afce12483049368d0cf",
+        "android_client_info": {
+          "package_name": "com.khater.easacc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142492439646-m6fgrv73ohp13ukqk12dbukik8iiag82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wKz_SvL8erlCrlNj4vnxfbz1cagMf8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142492439646-m6fgrv73ohp13ukqk12dbukik8iiag82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142492439646-93gqta5fffmuvggnl0dcsbirch8cnd6u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easacc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
